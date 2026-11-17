@@ -48,7 +48,7 @@ Carte graphique
 
         - Mémoire vidéo : 8 Go GDDR6
         - Interface : PCI Express 4.0
-        -
+        - 165€
 
 Carte mère
 
@@ -70,6 +70,7 @@ Boîtier
         - Panneaux latéraux et supérieur mesh
         - Compatible avec les alimentations ATX
         - Ventilateurs non inclus
+        - 89,99€
 
 Alimentation
 
@@ -106,3 +107,5 @@ OS Windows
     Windows 11 pro
 
         - 1,03€
+
+Budget total : 766,96€
